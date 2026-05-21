@@ -1,0 +1,9 @@
+.i1{height: 300px;width:300px;border: 4px solid black;margin:4px}
+.center {
+  display: inline-block;
+  flex-direction: column;
+  gap: 25px;
+  place-content: center;
+  place-items: center;
+  flex-grow: 1;
+}
